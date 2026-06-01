@@ -62,6 +62,12 @@ redirect_from:
         
         
         
+        
+        
+        
+        
+        
+        
          [预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
@@ -72,6 +78,12 @@ redirect_from:
 
 -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
 [[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091)
+        
+        
+        
+        
+        
+        
         
         
         
