@@ -34,8 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2020.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2016.06 - 2020.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 荆楚理工学院 数理学院, 湖北荆门，本科
+- *2020.09 - 2023.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 长江大学 物理与光电工程学院, 湖北荆州, 硕士
+- *2023.09 - 至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 湖北大学 材料科学与工程学院, 湖北武汉, 博士
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -46,8 +47,16 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587)
+-	` Jinquan Zhang; Yuanyuan Jin; Chuanzhao Zhang; Yanqi Wang; Libiao Tang; Song Li; Meng Ju. The crystal structures, phase stabilities, electronic structures and bonding features of iridium borides from first-principles calculations. *RSC Advances*, 2022, 12 (19), 11722–11731. (JCR:Q2; IF:4.6)  
+[[网页]](https://dx.doi.org/10.1039/d2ra01593e)
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -63,6 +72,14 @@ redirect_from:
 
 -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
 [[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091)
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
