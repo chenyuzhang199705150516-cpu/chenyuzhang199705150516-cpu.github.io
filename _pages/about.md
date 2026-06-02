@@ -149,7 +149,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 
 # 📝 论文专利
 
-### 英文
+### 寒文
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese J. Phys. 2025</div><img src='images/cjp2025.svg' alt="sym" width="100%"></div></div>
