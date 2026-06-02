@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	` Jinquan Zhang; Yuanyuan Jin; Chuanzhao Zhang; Yanqi Wang; Libiao Tang; Song Li; Meng Ju. The crystal structures, phase stabilities, electronic structures and bonding features of iridium borides from first-principles calculations. *RSC Advances*, 2022, 12 (19), 11722–11731. (JCR:Q2; IF:4.6)  
+-	`Jinquan Zhang`; Yuanyuan Jin; Chuanzhao Zhang; Yanqi Wang; Libiao Tang; Song Li; Meng Ju. The crystal structures, phase stabilities, electronic structures and bonding features of iridium borides from first-principles calculations. *RSC Advances*, 2022, 12 (19), 11722–11731. (JCR:Q2; IF:4.6)  
 [[网页]](https://dx.doi.org/10.1039/d2ra01593e)
         
         
@@ -104,8 +104,9 @@ Exploring high pressure structural transformations, electronic properties and su
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356)
+- Chuanzhao Zhang, `Jinquan Zhang`; Libiao Tang; Song Li; Meng Ju; Yuanyuan Jin; Mingkai Li. *
+Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg<sub>3</sub>TiH<sub>12</sub> under moderate pressures*. 2024, 41: 110944. . (JCR:Q2; IF:4.5)  
+[[网页]](http://dx.doi.org/10.1016/j.mtcomm.2024.110944. DOI:10.1016/j.mtcomm.2024.110944.)
         
         
         
