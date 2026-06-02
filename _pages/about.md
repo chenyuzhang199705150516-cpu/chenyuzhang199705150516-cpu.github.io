@@ -156,7 +156,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 <div class='paper-box-text' markdown="1">
 
 - Fulong Yang#; Chuanzhao Zhang#; Yanqi Wang; `Jinquan Zhang`; Panlong Kong; SongLi; Fang Chen; Yuanyuan Jin; Meng Ju; Kaixiong Gao. Pressure induced high-Tc superconductivity in ternary SrBH8 with distinctive B-H motif and complex hydrogen bonding patterns. *Chinese Journal of Physics*, 2025, 95, 600–614. (JCR:Q2; IF:4.6)  
-[[网页]]()
+[[网页]](http://dx.doi.org/10.1016/j.cjph.2025.02.044)
 
 </div>
 </div>
