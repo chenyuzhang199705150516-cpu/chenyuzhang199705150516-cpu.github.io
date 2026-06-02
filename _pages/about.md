@@ -68,7 +68,7 @@ redirect_from:
         
         
         
-         [预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+         [预览]](https://github.com/chenyuzhang199705150516-cpu/chenyuzhang199705150516-cpu.github.io/blob/master/pdf/Ir-B.2022RSC.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
