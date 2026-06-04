@@ -77,7 +77,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Jinquan Zhang`, Yanqi Wang; Libiao Tang; Juyi Duan; Jingjing Wang; Song Li; Meng Ju; Weiguo Sun; Yuanyuan Jin; Chuanzhao Zhang. 
-Exploring high pressure structural transformations, electronic properties and superconducting properties of MH<sub>2 (M = Nb, Ta). *Arabian Journal of Chemistry*. 2022, 15 (12), 104347.. (JCR:Q2; IF:5.2)  
+Exploring high pressure structural transformations, electronic properties and superconducting properties of MH<sub>2</sub> (M = Nb, Ta). *Arabian Journal of Chemistry*. 2022, 15 (12), 104347.. (JCR:Q2; IF:5.2)  
 [[网页]](https://doi.org/10.1016/j.arabjc.2022.104347)
         
         
@@ -119,7 +119,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese J. Phys. 2025</div><img src='images/cjp2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Fulong Yang#; Chuanzhao Zhang#; Yanqi Wang; `Jinquan Zhang`; Panlong Kong; SongLi; Fang Chen; Yuanyuan Jin; Meng Ju; Kaixiong Gao. Pressure induced high-Tc superconductivity in ternary SrBH8 with distinctive B-H motif and complex hydrogen bonding patterns. *Chinese Journal of Physics*, 2025, 95, 600–614. (JCR:Q2; IF:4.6)  
+- Fulong Yang#; Chuanzhao Zhang#; Yanqi Wang; `Jinquan Zhang`; Panlong Kong; SongLi; Fang Chen; Yuanyuan Jin; Meng Ju; Kaixiong Gao. Pressure induced high-Tc superconductivity in ternary SrBH<sub>8</sub> with distinctive B-H motif and complex hydrogen bonding patterns. *Chinese Journal of Physics*, 2025, 95, 600–614. (JCR:Q2; IF:4.6)  
 [[网页]](http://dx.doi.org/10.1016/j.cjph.2025.02.044)
 
 </div>
@@ -128,7 +128,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Energy Storage 2024</div><img src='images/jes2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Fengshuai Zhu; `Jinquan Zhang`; Xiangyu Cao; Yinzhuang Fang; Changwen Li; Muhammad Sultan Irshad; Tao Mei; Yi Chen; Mingkai Li; Xianbao Wang. Cobalt/Nickel Bimetallic Ion Synergistic Effect for Enhancing Polysulfide Adsorption and Conversion in Li S Batteries. *Journal of Energy Storage*, 2024, 104, 114643. (JCR:Q2; IF:9.8)  
+- Fengshuai Zhu; `Jinquan Zhang`; Xiangyu Cao; Yinzhuang Fang; Changwen Li; Muhammad Sultan Irshad; Tao Mei; Yi Chen; Mingkai Li; Xianbao Wang. Cobalt/Nickel Bimetallic Ion Synergistic Effect for Enhancing Polysulfide Adsorption and Conversion in Li-S Batteries. *Journal of Energy Storage*, 2024, 104, 114643. (JCR:Q2; IF:9.8)  
 [[网页]](https://doi.org/10.1016/j.est.2024.114643)
 
 </div>
@@ -137,7 +137,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep. 2024</div><img src='images/sr2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yanqi Wang; Yuanyuan Jin; Fulong Yang; `Jinquan Zhang`; Chuanzhao Zhang*; Fangguang Kuang; Meng Ju; Song Li; Shubo Cheng. Prediction of potential high-temperature superconductivity in ternary Y - Hf - H compounds under high pressure. *Scientific Reports*, 2024, 14, 17670. (JCR:Q2; IF:3.8)  
+- Yanqi Wang; Yuanyuan Jin; Fulong Yang; `Jinquan Zhang`; Chuanzhao Zhang*; Fangguang Kuang; Meng Ju; Song Li; Shubo Cheng. Prediction of potential high-temperature superconductivity in ternary Y-Hf-H compounds under high pressure. *Scientific Reports*, 2024, 14, 17670. (JCR:Q2; IF:3.8)  
 [[网页]](https://doi.org/10.1038/s41598-024-68533-3)
 
 
@@ -156,7 +156,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mol. Phys. 2024</div><img src='images/mp2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Juyi Duan; `Jinquan Zhang`; Meidi Wang; Libiao Tang; Yanqi Wang; Song Li; Meng Ju; Yuanyuan Jin; Chuanzhao Zhang. High-Pressure Study on Novel Structure, Mechanical Properties and High Energy Density of RuN4. *Molecular Physics*, 2024, 122 (13). (JCR:Q4; IF:1.8)  
+- Juyi Duan; `Jinquan Zhang`; Meidi Wang; Libiao Tang; Yanqi Wang; Song Li; Meng Ju; Yuanyuan Jin; Chuanzhao Zhang. High-Pressure Study on Novel Structure, Mechanical Properties and High Energy Density of RuN<sub>4</sub>. *Molecular Physics*, 2024, 122 (13). (JCR:Q4; IF:1.8)  
 [[网页]](https://doi.org/10.1080/00268976.2024.2302047)
 
 </div>
@@ -165,7 +165,7 @@ Hydrogen anion unit and high-temperature superconductivity in ternary hydride Mg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arabian J. Chem. 2023</div><img src='images/ajc2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuanyuan Jin; Wenjie Huang; `Jinquan Zhang`; Song Li; Shubo Cheng; Weiguo Sun; Meng Ju; Chuanzhao Zhang. An Unexpectedly Stable Y2B5 Compound with the Fractional Stoichiometry under Ambient Pressure. *Arabian Journal of Chemistry*, 2023, 16 (3), 104546. (JCR:Q2; IF:5.2)  
+- Yuanyuan Jin; Wenjie Huang; `Jinquan Zhang`; Song Li; Shubo Cheng; Weiguo Sun; Meng Ju; Chuanzhao Zhang. An Unexpectedly Stable Y<sub>2</sub>B<sub>5</sub> Compound with the Fractional Stoichiometry under Ambient Pressure. *Arabian Journal of Chemistry*, 2023, 16 (3), 104546. (JCR:Q2; IF:5.2)  
 [[网页]](https://doi.org/10.1016/j.arabjc.2023.104546)
 
 </div>
