@@ -34,9 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2020.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 荆楚理工学院 数理学院, 湖北荆门，本科
-- *2020.09 - 2023.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 长江大学 物理与光电工程学院, 湖北荆州, 硕士
-- *2023.09 - 至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 湖北大学 材料科学与工程学院, 湖北武汉, 博士
+- *2016.06 - 2020.6*, <a href="https://www.jcut.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 荆楚理工学院 数理学院, 湖北荆门，本科
+- *2020.09 - 2023.06*, <a href="https://yangtzeu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 长江大学 物理与光电工程学院, 湖北荆州, 硕士
+- *2023.09 - 至今*, <a href="https://www.hubu.edu.cn/"><img class="svg" src="/images/hubei-ezgif.com-gif-maker.svg" width="20pt"></a> 湖北大学 材料科学与工程学院, 湖北武汉, 博士
  
 <span class='anchor' id='-lwzl'></span>
 
