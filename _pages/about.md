@@ -34,8 +34,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2020.6*, <a href="https://www.jcut.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 荆楚理工学院 数理学院, 湖北荆门，本科
-- *2020.09 - 2023.06*, <a href="https://yangtzeu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 长江大学 物理与光电工程学院, 湖北荆州, 硕士
+- *2016.06 - 2020.6*, <a href="https://www.jcut.edu.cn/"><img class="svg" src="/images/JUCT-ezgif.com-gif-maker.svg" width="23pt"></a> 荆楚理工学院 数理学院, 湖北荆门，本科
+- *2020.09 - 2023.06*, <a href="https://yangtzeu.edu.cn/"><img class="svg" src="/images/YU_logo-ezgif.com-gif-maker.svg" width="20pt"></a> 长江大学 物理与光电工程学院, 湖北荆州, 硕士
 - *2023.09 - 至今*, <a href="https://www.hubu.edu.cn/"><img class="svg" src="/images/hubei-ezgif.com-gif-maker.svg" width="20pt"></a> 湖北大学 材料科学与工程学院, 湖北武汉, 博士
  
 <span class='anchor' id='-lwzl'></span>
@@ -44,7 +44,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/Ir-B-ezgif.com-gif-maker.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jinquan Zhang`; Yuanyuan Jin; Chuanzhao Zhang; Yanqi Wang; Libiao Tang; Song Li; Meng Ju. The crystal structures, phase stabilities, electronic structures and bonding features of iridium borides from first-principles calculations. *RSC Advances*, 2022, 12 (19), 11722–11731. (JCR:Q2; IF:4.6)  
